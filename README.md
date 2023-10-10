@@ -42,15 +42,15 @@
 
 -----
 
-## 📌참여 인원 : 12명
-23.08.27.ver
+## 📌참여 인원 : 32명
+23.10.10.ver
 
 - **😨기획할결심 / 기획 및 마케팅팀 (1명)** : 김도연
 - **👑최종보스 / 디자인팀 (1명)** : 박재경
 - **🗿모아이석상 / 프론트엔드 개발팀 (3명)** : 윤성환, 심채윤, 김한동
-- **🏃돌격대장 / 백엔드 개발팀 (2명)** : 이석운, 구본주, 김한동(프론트와 겸임)
+- **🏃돌격대장 / 백엔드 개발팀 (2명)** : 이석운, 김한동(프론트와 겸임)
 - **🌱MZ세대의역습 / 안드로이드 개발팀 (3명)** : 염준우, 목요빈, 조수연
-- **🍎전설의포켓몬 / iOS 개발팀 (2명)** : 김민규, 이시원 
+- **🍎전설의포켓몬 / iOS 개발팀 (3명)** : 김민규, 이시원, 박세리
 
 -----
 
@@ -83,6 +83,8 @@
 [프로젝트 관리(23.05.28.ver)](https://docs.google.com/spreadsheets/d/1vZjjwzqJXCF0u5V90Ai_nwkeeSv4ooz54xKd4Sq1fzM/edit?usp=sharing) : 프로젝트 관리 문서(일종의 마스터파일 역할)
 
 [프로젝트 진행계획안(23.05.28.ver)](https://docs.google.com/presentation/d/1js78kjVa1EbNOBPxtq5hcWUCAUxQ7GJ3HYvE8JW57_Q/edit#slide=id.p) : 프로젝트 진행계획안 상세하게 정리 / 추후 업데이트 예정
+
+[서비스 계정(23.10.10.ver)]([https://docs.google.com/presentation/d/1js78kjVa1EbNOBPxtq5hcWUCAUxQ7GJ3HYvE8JW57_Q/edit#slide=id.p](https://docs.google.com/spreadsheets/d/1AhqDdk4UHVB4p3ByUVr8QO2OHN6RR2G8B8tYZ1a4I2s/edit#gid=0)) : 서비스 계정 문서
 
 ### 2. 팀별
 #### [기획]
